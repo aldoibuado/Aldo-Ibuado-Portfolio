@@ -36,7 +36,7 @@ nav ul li {
 }
 
 h2 {
-    font-size: 30px;
+    font-size: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
 }
@@ -45,6 +45,38 @@ p {
     font-size: 20px;
 }
 
+img {
+    width: 400px;
+    padding: 20px;
+    height: auto;
+    border: 5px solid black;
+    
+}
 
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+footer p {
+    font-size: 20px;
+    color: white;
+    left: 810px;
+    position: absolute;
+}
+
+@media screen and (max-width: 992px) {
+    header {
+        background-color: #772014;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    header {
+        background: #8ac4ff;
+    }
+    
+}
 
 
