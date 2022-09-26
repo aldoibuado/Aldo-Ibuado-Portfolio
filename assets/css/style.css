@@ -1,6 +1,19 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #60ACB8;
+}
+
 header {
     display: flex;
     justify-content: space-between;
+    color: white;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 nav ul {
@@ -11,12 +24,27 @@ nav ul {
 
 nav ul li {
     margin: 10px;
+    color: white;
 }
 
 .hero {
-    background-image: url("../images/wp2946937.jpg");
-    height: 400px;
+    background-image: url("../images/ddcpy4t-7bf5e1c5-a40c-4bae-baf6-c7a90192632b.png");
+    height: 350px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
+
+h2 {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+
+
