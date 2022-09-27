@@ -2,17 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+Studying to be a full-stack web developer has pushed me to realize how imporant it is to have a portfolio to showcase my work. I would like to show potential employers the projects I have worked on/made. Employers will want to see the projects I have worked on and having this website is a way for me to show them. I learned how to write code from scratch, but still does require improvement. 
 
 ## Installation
 
@@ -20,13 +10,10 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+You are able to click the links in the navagation bar which will lead you to the selected section. The placeholder images will also lead you to my future projects. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+ ![image](https://user-images.githubusercontent.com/109316738/192405236-75620e08-a745-43e1-9460-cab1b941f4da.png)
+    
 
 ## License
 
