@@ -12,7 +12,7 @@ N/A
 
 You are able to click the links in the navagation bar which will lead you to the selected section. The placeholder images will also lead you to my future projects. 
 
- ![image](https://user-images.githubusercontent.com/109316738/192405236-75620e08-a745-43e1-9460-cab1b941f4da.png)
+ !git[image](https://user-images.githubusercontent.com/109316738/192433265-5ac1020f-3096-4974-b8be-9a708371f38a.png)
     
 
 ## License
