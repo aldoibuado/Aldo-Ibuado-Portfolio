@@ -54,6 +54,12 @@ img {
     
 }
 
+img.expand {
+    width: 900px;
+    padding: 20px;
+    height: 450px;
+}
+
 .container {
     position: relative;
     text-align: center;
