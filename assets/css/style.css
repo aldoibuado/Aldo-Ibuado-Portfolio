@@ -1,3 +1,57 @@
+@font-face {
+    font-family: 'stranger_back_in_the_nightRg';
+    src: url('../fonts/StrangerBackInTheNight-VB0B.ttf') format('woff2'),
+         url('../fonts/StrangerBackInTheNight-VB0B.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'big_scream_straightregular';
+    src: url('../fonts/BigScreamStraight-1Ge4B.ttf') format('woff2'),
+         url('../fonts/BigScreamStraight-1Ge4B.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'midnite_hourregular';
+    src: url('../fonts/MidniteHour-MMwr.ttf') format('woff2'),
+         url('../fonts/MidniteHour-MMwr.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'chainsawregular';
+    src: url('../fonts/Chainsaw-X3jKG.otf') format('woff2'),
+         url('../fonts/Chainsaw-X3jKG.otf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'crotah_free_versionitalic';
+    src: url('../fonts/CrotahFreeVersionItalic-z8Ev3.ttf') format('woff2'),
+         url('../fonts/CrotahFreeVersionItalic-z8Ev3.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'milterna_1_demoregular';
+    src: url('../fonts/Milterna1demo-BWZEB.otf') format('woff2'),
+         url('../fonts/Milterna1demo-BWZEB.otf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -13,7 +67,7 @@ header {
     justify-content: space-between;
     color: white;
     font-size: 40px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'crotah_free_versionitalic', 'Arial Narrow', Arial, sans-serif;
 }
 
 nav ul {
@@ -35,9 +89,9 @@ nav ul li {
     background-size: cover;
 }
 
-h2 {
+h1, h2 {
     font-size: 40px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'crotah_free_versionitalic', 'Arial Narrow', Arial, sans-serif;
     color: white;
 }
 

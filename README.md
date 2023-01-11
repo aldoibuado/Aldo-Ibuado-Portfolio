@@ -12,7 +12,10 @@ N/A
 
 You are able to click the links in the navagation bar which will lead you to the selected section. The placeholder images will also lead you to my future projects. 
 
+Here is the link to the deployed application https://aldoibuado.github.io/Aldo-Ibuado-Portfolio/
+
  ![image](https://user-images.githubusercontent.com/109316738/192433265-5ac1020f-3096-4974-b8be-9a708371f38a.png)
+
     
 
 ## License
